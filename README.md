@@ -1,94 +1,92 @@
-<!-- GitHub Profile README for Vaibhav Mulak -->
-<h1 align="center">🧠 Vaibhav Mulak — Cybersecurity Enthusiast | Offensive Security Learner</h1>
+# 👋 Hi, I'm Vaibhav Mulak
 
-<p align="center">
-  <i>Passionate about ethical hacking, exploit development, and building powerful tools to secure and break systems — the right way.</i><br>
-  <i>Linux purist | OSCP & eCPPT aspirant | Python automation addict | Always questioning. Always learning.</i>
-</p>
+🌐 **Web Developer** | 🛡️ **Offensive Security Learner** | 🐛 **Bug Bounty Hunter** | 🧠 **Linux Enthusiast**  
+🎯 Driven by curiosity. Focused on mastering cybersecurity and building real-world security tools.
 
 ---
 
-### 🧿 About Me
+### 🧠 About Me
 
-- 🔐 **Cybersecurity Explorer** deeply engaged in offensive security, red teaming, and bug bounty methodologies.
-- 🧠 I learn by breaking — web apps, protocols, binaries — and build tools to automate it.
-- 📚 I love reading RFCs, fuzzing custom payloads, and reverse engineering weird edge cases.
-- 🌐 Contributor to open-source offensive security tools (soon... 👨‍💻).
-- 📖 Writing my journey publicly via technical blogs, walkthroughs, and writeups.
-- 🏴‍☠️ Focused on **real-world attacks** — not textbook checkboxes.
+I’m a cybersecurity enthusiast with a strong offensive mindset, deeply engaged in:
 
----
+- 🕸️ Web & API Security Testing (XSS, IDOR, SSRF, CSP Bypass, etc.)
+- 🧪 Python automation for reconnaissance, fuzzing, and exploit chaining
+- 🐧 Linux internals, networking, and post-exploitation scripting
+- 🔍 Reverse engineering and basic binary exploitation
+- 🧰 Building open-source tools for ethical hacking and automation
 
-### 🛠️ Tech Stack & Tools
-
-#### 🔍 Offensive Tooling
-`Burp Suite` | `Nmap` | `Metasploit` | `SQLMap` | `Amass` | `ffuf` | `Subfinder` | `Recon-ng` | `XSS-Radar`
-
-#### 💻 Programming & Automation
-`Python` | `Bash` | `C` | `Linux Scripting` | `PyQT GUI Dev` | `Flask` | `SQLite`
-
-#### 🧬 Platforms & Labs
-`Hack The Box` | `TryHackMe` | `PortSwigger Academy` | `VulnHub` | `CTFtime` | `CrackMe.one`
-
-#### 🔧 OS & Infra
-`Kali Linux` | `ParrotOS` | `Debian` | `Docker` | `VirtualBox` | `Wireshark` | `SSH Tunnels` | `Tor Automation`
+I'm on a mission to make the digital world safer — one exploit, one patch, one line of code at a time.
 
 ---
 
-### 🧠 Current Focus Areas
+### 🧩 Tech Stack
 
-- 🔥 Exploit Development & Custom Payload Engineering
-- 🕸️ Web App Pentesting (XSS, SSRF, IDOR, RCE, etc.)
-- 🔍 Bug Bounty Recon + Automation via Python
-- 📦 Building Offensive Security Tools (Python + Bash)
-- 📜 Documenting Every Lab, Every Exploit, Every Bug
-- 💣 Binary Exploitation & Fuzzing with `gdb`, `pwndbg`, and `radare2`
+#### 💻 Languages & Frameworks
+- **Python** 🐍 – Scripting, automation, tool development
+  - `Django`, `Flask`, `PyQT`, `SQLite`
+- **Node.js** 🚀 & **MongoDB** 🍃 – For real-time apps & REST APIs
+- **PHP + MySQL** 🗄️ – Secure web app backend
+- **JavaScript + HTML/CSS** 🎨 – Frontend logic and interface
 
----
-
-### 🎯 Learning Roadmap
-
-- 🛡️ **OSCP** and **eCPPT** prep via real-world labs
-- 🧠 Reverse engineering binaries with `Ghidra` and `IDA Free`
-- 🐍 Developing Python-based recon & post-exploitation tools
-- 📖 Deepening Linux internals and shell scripting mastery
-- 🌐 Writing quality blog content to teach & build credibility
-
----
-
-### 🛠️ Key Projects [Coming Soon...]
-| Tool | Description | Language |
-|------|-------------|----------|
-| 🐍 `ReconX` | Advanced recon automation tool for bug bounty | Python |
-| 🎯 `XSS-Finder` | DOM-based and reflected XSS fuzzing tool | JavaScript / Python |
-| 🧰 `PayloadLab` | Payload collection manager for various vulns | Bash / SQLite |
-| 🔎 `CertCrawler` | Certificate transparency log parser for subdomain enum | Python |
+#### 🐧 Platforms & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-005571?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9cf?style=for-the-badge&logo=hackthebox)
 
 ---
 
-### ✍️ Blog & Documentation
+### 🧠 Current Cybersecurity Focus
 
-- 📖 Personal blog on Web Exploits, CTF Writeups, Python Tools
-- 🧠 LinkedIn + GitHub used as a **knowledge repo**, not vanity
-- 💻 Git commits reflect a real journey — not filler uploads
-
----
-
-### 📜 Certifications (In Progress)
-- 🏁 OSCP — 2025 Target
-- 🧠 eCPPTv2 — Ongoing Prep
-- 🧪 TryHackMe Jr PenTester & Web Fundamentals ✅
+- 🔎 Practicing offensive recon & exploitation with Burp Suite, ffuf, SQLMap, and custom Python scripts.
+- ⚙️ Automating recon + vuln discovery (subdomain enum, JS file analysis, API fuzzing).
+- 🧬 Studying reverse engineering and developing custom payloads (RCE, LFI, etc).
+- 🛠️ Building a personal arsenal of tools for pentesting & bug bounty.
 
 ---
 
-### 📫 Let's Connect
+### 🐞 Bug Bounty Highlights
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📬 Email: vaibhavmulak@protonmail.com
-- 🖥️ GitHub: [github.com/vaibhavmulak](https://github.com/vaibhavmulak)
+- Exploiting and responsibly disclosing vulnerabilities (IDOR, auth bypass, XSS, SSRF).
+- Working with organizations to improve their security posture.
+- Focused on high-signal, reproducible reports with working PoCs.
 
 ---
 
-> 🧠 “Think like a hacker, act like a scientist, write like a teacher.”  
-> _— My personal philosophy._
+### 🚀 Learning & Building Goals
 
+- 🧠 Master **OSCP** and **eCPPTv2** methodologies
+- ⚙️ Release open-source tools: recon automation, fuzzers, payload managers
+- ✍️ Publish blog writeups & tool walkthroughs on real-world attacks
+- 📦 Document every exploit and lesson — publicly and clearly
+- 👥 Collaborate with security-minded developers and hackers
+
+---
+
+### 📌 Featured Repositories
+
+🔗 Check out my GitHub repos for:
+- Python-based security tools 🔧  
+- Web applications built with secure coding principles 🌐  
+- Penetration testing utilities & payload generators 🧪  
+
+> [🧰 GitHub Projects](https://github.com/ShieldedDev)
+
+---
+
+### 🌐 Let's Connect
+
+- 🔗 **Portfolio**: [vaibhavmulak.blogspot.com](https://vaibhavmulak.blogspot.com/)
+- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/vaibhav-m-a99905183/)
+- 🐦 **Twitter**: [@MulakVaibhav](https://twitter.com/MulakVaibhav)
+- 📧 **Email**: vaibhavmulak33@gmail.com
+
+---
+
+> 👨‍💻 *Code with precision. Hack with ethics. Document with clarity.*  
+> — Vaibhav Mulak
