@@ -96,7 +96,7 @@ I'm on a mission to make the digital world safer — one exploit, one patch, one
 ### 🌐 Let's Connect
 
 - 🔗 **Portfolio**: [vaibhavmulak.blogspot.com](https://vaibhavmulak.blogspot.com/)
-- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/vaibhav-m-a99905183/)
+- 💼 **LinkedIn**: [linkedin.com/in/vaibhav-m-a99905183](https://www.linkedin.com/in/vaibhav-m-a99905183/)
 - 🐦 **Twitter**: [@MulakVaibhav](https://twitter.com/MulakVaibhav)
 - 📧 **Email**: vaibhavmulak33@gmail.com
 
