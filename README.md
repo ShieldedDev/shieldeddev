@@ -1,104 +1,249 @@
-# 👋 Hi, I'm Vaibhav Mulak
+# Hi, I'm Vaibhav Mulak
 
-🌐 **Web Developer** | 🛡️ **Offensive Security Learner** | 🐛 **Bug Bounty Hunter** | 🧠 **Linux Enthusiast**  
-🎯 Driven by curiosity. Focused on mastering cybersecurity and building real-world security tools.
+### Offensive Security • Penetration Testing • Security Research • Python Automation
 
----
-
-### 🧠 About Me
-
-I’m a cybersecurity enthusiast with a strong offensive mindset, deeply engaged in:
-
-- 🕸️ Web & API Security Testing (XSS, IDOR, SSRF, CSP Bypass, etc.)
-- 🧪 Python automation for reconnaissance, fuzzing, and exploit chaining
-- 🐧 Linux internals, networking, and post-exploitation scripting
-- 🔍 Reverse engineering and basic binary exploitation
-- 🧰 Building open-source tools for ethical hacking and automation
-
-I'm on a mission to make the digital world safer — one exploit, one patch, one line of code at a time.
+Building offensive security tools, documenting practical attack methodologies, and researching modern vulnerabilities through hands-on labs, web application testing, API security, and infrastructure assessments.
 
 ---
 
+## About
 
-**<h3 align="left">GitHub Stats</h3>**
+I'm an offensive security enthusiast focused on understanding how systems fail, how attackers think, and how security weaknesses can be identified through structured methodology.
+
+My primary areas of interest include:
+
+- Web Application Security
+- API Security
+- Active Directory
+- Windows & Linux Privilege Escalation
+- Red Team Methodology
+- Python Automation
+- Security Research
+
+I strongly believe that documentation is just as important as exploitation. Every machine, lab, and project I complete is documented to reinforce methodology, reproducibility, and technical communication.
+
+---
+
+## Assessment Methodology
+
+Every assessment follows a structured workflow inspired by real-world penetration testing engagements.
+
+```
+Reconnaissance
+      │
+      ▼
+Service Enumeration
+      │
+      ▼
+Attack Surface Analysis
+      │
+      ▼
+Vulnerability Research
+      │
+      ▼
+Exploitation
+      │
+      ▼
+Post Exploitation
+      │
+      ▼
+Privilege Escalation
+      │
+      ▼
+Documentation
+```
+
+> Understanding **why** an attack works is far more valuable than simply reproducing it.
+
+---
+
+## Core Competencies
+
+### Offensive Security
+
+- Web Application Penetration Testing
+- API Security Testing
+- Windows Enumeration
+- Linux Enumeration
+- Active Directory Fundamentals
+- Vulnerability Validation
+- Exploit Research
+- Post Exploitation
+- Windows Privilege Escalation
+- Linux Privilege Escalation
+
+### Security Tooling
+
+- Python Security Automation
+- Reconnaissance Frameworks
+- Enumeration Utilities
+- Custom Security Scripts
+- Security Research
+
+### Documentation
+
+- Professional Assessment Reports
+- Technical Writeups
+- Walkthrough Documentation
+- Security Research Notes
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- JavaScript
+- PHP
+- SQL
+- HTML
+- CSS
+- Bash
+
+### Frameworks & Libraries
+
+- Flask
+- Django
+- PyQt
+- SQLite
+- MongoDB
+
+### Security Tools
+
+- Burp Suite
+- Metasploit Framework
+- Nmap
+- Wireshark
+- Gobuster
+- ffuf
+- Searchsploit
+- SQLMap
+- LinPEAS
+- WinPEAS
+- Netcat
+- Git
+
+### Platforms
+
+- Linux
+- Windows
+- Hack The Box
+- TryHackMe
+- VirtualBox
+- VMware
+
+---
+
+## Assessment Portfolio
+
+This GitHub serves as a growing portfolio of practical offensive security work.
+
+Current assessment collections include:
+
+- Hack The Box Assessment Reports
+- TryHackMe Walkthroughs
+- Web Security Labs
+- API Security Labs
+- Vulnerability Research
+- Python Security Tools
+
+Every report focuses on documenting the complete attack lifecycle rather than simply solving a challenge.
+
+---
+
+## Featured Projects
+
+### Red Team Assessment Reports
+
+Professional-style offensive security reports documenting Hack The Box machines, API Security labs, and Web Security assessments.
+
+---
+
+### Network Intrusion Detection System
+
+A Python-based intrusion detection system developed to monitor network traffic, detect suspicious activity, and generate alerts through signature-based detection.
+
+---
+
+### Offensive Security Tooling
+
+A growing collection of Python utilities for reconnaissance, enumeration, automation, and penetration testing.
+
+---
+
+### Security Research
+
+Research notes, vulnerability analysis, exploitation techniques, and documentation covering practical offensive security topics.
+
+---
+
+## Current Focus
+
+Currently investing time in:
+
+- Active Directory security
+- Web Application Security
+- API Security
+- Windows Privilege Escalation
+- Linux Privilege Escalation
+- Red Team Methodology
+- Security Automation
+- Exploit Development
+- Professional Assessment Documentation
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-  <img width="50%" src="https://streak-stats.vercel.app?user=ShieldedDev&theme=react" alt="GitHub Streak" />
+<img width="48%" src="https://streak-stats.vercel.app?user=ShieldedDev&theme=react" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShieldedDev&show_icons=true&theme=react&hide_border=true" />
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldedDev&layout=compact&theme=react&hide_border=true" />
 
 </div>
 
+---
+
+## Philosophy
+
+I enjoy understanding systems from an attacker's perspective while maintaining a strong focus on responsible security research.
+
+Rather than relying solely on automated tools, I aim to understand:
+
+- Why a vulnerability exists
+- How an exploit works internally
+- Where defensive controls fail
+- How to reproduce findings reliably
+- How to communicate technical findings clearly
 
 ---
 
-### 🧩 Tech Stack
+## Connect
 
-#### 💻 Languages & Frameworks
-- **Python** 🐍 – Scripting, automation, tool development
-  - `Django`, `Flask`, `PyQT`, `SQLite`
-- **Node.js** 🚀 & **MongoDB** 🍃 – For real-time apps & REST APIs
-- **PHP + MySQL** 🗄️ – Secure web app backend
-- **JavaScript + HTML/CSS** 🎨 – Frontend logic and interface
+**Portfolio**
 
-#### 🐧 Platforms & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-005571?style=for-the-badge&logo=wireshark&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox)
-![Metasploit](https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9cf?style=for-the-badge&logo=hackthebox)
+https://vaibhavmulak.blogspot.com
+
+**LinkedIn**
+
+https://www.linkedin.com/in/vaibhav-m-a99905183/
+
+**X (Twitter)**
+
+https://twitter.com/MulakVaibhav
+
+**Email**
+
+vaibhavmulak33@gmail.com
 
 ---
 
-### 🧠 Current Cybersecurity Focus
+> *"Every assessment is an opportunity to understand a system—not just compromise it."*
 
-- 🔎 Practicing offensive recon & exploitation with Burp Suite, ffuf, SQLMap, and custom Python scripts.
-- ⚙️ Automating recon + vuln discovery (subdomain enum, JS file analysis, API fuzzing).
-- 🧬 Studying reverse engineering and developing custom payloads (RCE, LFI, etc).
-- 🛠️ Building a personal arsenal of tools for pentesting & bug bounty.
-
----
-
-### 🐞 Bug Bounty Highlights
-
-- Exploiting and responsibly disclosing vulnerabilities (IDOR, auth bypass, XSS, SSRF).
-- Working with organizations to improve their security posture.
-- Focused on high-signal, reproducible reports with working PoCs.
-
----
-
-### 🚀 Learning & Building Goals
-
-- 🧠 Master **OSCP** and **eCPPTv2** methodologies
-- ⚙️ Release open-source tools: recon automation, fuzzers, payload managers
-- ✍️ Publish blog writeups & tool walkthroughs on real-world attacks
-- 📦 Document every exploit and lesson — publicly and clearly
-- 👥 Collaborate with security-minded developers and hackers
-
----
-
-### 📌 Featured Repositories
-
-🔗 Check out my GitHub repos for:
-- Python-based security tools 🔧  
-- Web applications built with secure coding principles 🌐  
-- Penetration testing utilities & payload generators 🧪  
-
-> [🧰 GitHub Projects](https://github.com/ShieldedDev)
-
----
-
-### 🌐 Let's Connect
-
-- 🔗 **Portfolio**: [vaibhavmulak.blogspot.com](https://vaibhavmulak.blogspot.com/)
-- 💼 **LinkedIn**: [linkedin.com/in/vaibhav-m-a99905183](https://www.linkedin.com/in/vaibhav-m-a99905183/)
-- 🐦 **Twitter**: [@MulakVaibhav](https://twitter.com/MulakVaibhav)
-- 📧 **Email**: vaibhavmulak33@gmail.com
-
----
-
-> 👨‍💻 *Code with precision. Hack with ethics. Document with clarity.*  
-> — Vaibhav Mulak
+**— Vaibhav Mulak**
