@@ -3,13 +3,7 @@
 ### Offensive Security • Penetration Testing • Security Research • Python Automation
 
 Building offensive security tools, documenting practical attack methodologies, and researching modern vulnerabilities through hands-on labs, web application testing, API security, and infrastructure assessments.
-
 ---
-
-## About
-
-I'm an offensive security enthusiast focused on understanding how systems fail, how attackers think, and how security weaknesses can be identified through structured methodology.
-
 My primary areas of interest include:
 
 - Web Application Security
@@ -42,21 +36,7 @@ My primary areas of interest include:
 
 ### Languages
 
-- Python
-- JavaScript
-- PHP
-- SQL
-- HTML
-- CSS
-- Bash
-
-### Frameworks & Libraries
-
-- Flask
-- Django
-- PyQt
-- SQLite
-- MongoDB
+- Python | JavaScript | PHP  SQL | HTML | CSS | Bash |
 
 ### Security Tools & Platforms 
 
@@ -75,15 +55,10 @@ My primary areas of interest include:
 ## GitHub Statistics
 
 <div align="center">
-
 <img width="48%" src="https://streak-stats.vercel.app?user=ShieldedDev&theme=react" />
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShieldedDev&show_icons=true&theme=react&hide_border=true" />
-
 <br><br>
-
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldedDev&layout=compact&theme=react&hide_border=true" />
-
 </div>
 
 ---
