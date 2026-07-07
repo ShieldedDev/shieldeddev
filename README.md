@@ -67,8 +67,10 @@ My primary areas of interest include:
 
 ## Connect
 
-**Portfolio**: https://vaibhavmulak.blogspot.com
-**LinkedIn**: https://www.linkedin.com/in/vmulak/
-**X (Twitter)**: https://twitter.com/MulakVaibhav
-**Email**: vaibhavmulak33@gmail.com
+-  **Portfolio**: [vaibhavmulak.blogspot.com](https://vaibhavmulak.blogspot.com/)
+-  **LinkedIn**: [linkedin.com/in/vaibhav-m-a99905183](https://www.linkedin.com/in/vmulak/)
+-  **Twitter**: [@MulakVaibhav](https://twitter.com/MulakVaibhav)
+-  **Email**: vaibhavmulak33@gmail.com
+
+
 ---
