@@ -1,6 +1,8 @@
 # Hi, I'm Vaibhav Mulak
 
 ### Offensive Security • Penetration Testing • Security Research • Python Automation
+---
+### About
 
 Building offensive security tools, documenting practical attack methodologies, and researching modern vulnerabilities through hands-on labs, web application testing, API security, and infrastructure assessments.
 ---
