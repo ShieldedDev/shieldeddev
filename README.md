@@ -54,35 +54,21 @@ My primary areas of interest include:
 
 ## GitHub Statistics
 
+
 <div align="center">
-<img width="48%" src="https://streak-stats.vercel.app?user=ShieldedDev&theme=react" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShieldedDev&show_icons=true&theme=react&hide_border=true" />
-<br><br>
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShieldedDev&layout=compact&theme=react&hide_border=true" />
+
+  <img width="50%" src="https://streak-stats.vercel.app?user=ShieldedDev&theme=react" alt="GitHub Streak" />
+
 </div>
+
+
 
 ---
 
 ## Connect
 
-**Portfolio**
-
-https://vaibhavmulak.blogspot.com
-
-**LinkedIn**
-
-https://www.linkedin.com/in/vaibhav-m-a99905183/
-
-**X (Twitter)**
-
-https://twitter.com/MulakVaibhav
-
-**Email**
-
-vaibhavmulak33@gmail.com
-
+**Portfolio**: https://vaibhavmulak.blogspot.com
+**LinkedIn**: https://www.linkedin.com/in/vmulak/
+**X (Twitter)**: https://twitter.com/MulakVaibhav
+**Email**: vaibhavmulak33@gmail.com
 ---
-
-> *"Every assessment is an opportunity to understand a system—not just compromise it."*
-
-**— Vaibhav Mulak**
